@@ -53,6 +53,8 @@ It covers critical e-commerce workflows such as login, product selection, cart v
 ```bash
 mvn clean test
 
-## Test Execution Report
+## Test Execution Repor
 
-![Test Report](screenshots)
+![Test Report](screenshots/Image 5-6-26 at 10.38.png)
+
+
