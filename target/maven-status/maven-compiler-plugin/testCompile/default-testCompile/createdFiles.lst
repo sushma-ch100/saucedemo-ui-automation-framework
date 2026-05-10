@@ -1,0 +1,7 @@
+pages/CartPage.class
+pages/CheckoutPage.class
+tests/LoginTest.class
+tests/CheckoutTest.class
+pages/ProductsPage.class
+pages/LoginPage.class
+base/BaseTest.class
